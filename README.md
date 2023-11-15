@@ -7,6 +7,9 @@
   
 - 📫 How to reach me : My mail is frankrombini@gmail.com
   
+- Some technologies i use:
+  
+https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
 
 <!---
 Frombini/Frombini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
