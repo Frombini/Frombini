@@ -9,8 +9,7 @@ With over 20 years of experience managing IT infrastructure, technical support, 
 - 📊 **Data & Automation Stack:** Python (Pandas, NumPy, Scikit-learn), SQL, Power BI, ETL Pipelines, FastAPI, Git
 - 🌎 **Location & Availability:** Buenos Aires, Argentina (GMT-3) — Full schedule overlap with US Eastern & Central (EST/CST) hours for remote roles
 
-📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/franciscorombini) | [Upwork Profile]([TU_LINK_DE_UPWORK](https://www.upwork.com/freelancers/~01da98a24e96f8e8af?mp_source=share))
-
+📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/franciscorombini) | [Upwork Profile](https://www.upwork.com/freelancers/~01da98a24e96f8e8af)
 
 <!---
 Frombini/Frombini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
