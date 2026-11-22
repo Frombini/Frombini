@@ -1,13 +1,16 @@
-- 👋 Hi, I’m Francisco Rombini, I have worked all my life in relation to technology, computing, supporting various systems and programs,
--    now I am focused on improving my quality of work and I am currently studying a degree in Data Science at the SoyHenry institution.
+### Hi there, I'm Francisco Rombini 👋
 
--    SoyHenry Web: https://www.soyhenry.com/carrera-data-science
-  
-- 👀 I’m interested in all the tools for working with data and big data, data analysis and data engineering. Python, SQL, Power BI, Linux Environments for Big Data, among others.
-  
-- 🌱 I’m currently learning Data Science, Data Engineer in SoyHenry.
-  
-- 📫 How to reach me : My mail is frankrombini@gmail.com
+**Senior IT Support & Systems Specialist | Data Analyst & Junior Data Scientist**
+
+With over 20 years of experience managing IT infrastructure, technical support, and enterprise systems (Telefé S.A., Ribeiro S.A., Fundación Cimientos), I combine deep operational expertise with modern data analytics and automation skills.
+
+- 🎓 **Education:** Data Science Bootcamp Graduate at **Soy Henry**
+- 💻 **IT & Cloud Stack:** Windows/Linux Administration, Active Directory, Microsoft 365, Google Workspace, Networking (TCP/IP, VPN), Help Desk (L1/L2/L3)
+- 📊 **Data & Automation Stack:** Python (Pandas, NumPy, Scikit-learn), SQL, Power BI, ETL Pipelines, FastAPI, Git
+- 🌎 **Location & Availability:** Buenos Aires, Argentina (GMT-3) — Full schedule overlap with US Eastern & Central (EST/CST) hours for remote roles
+
+📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/franciscorombini) | [Upwork Profile]([TU_LINK_DE_UPWORK](https://www.upwork.com/freelancers/~01da98a24e96f8e8af?mp_source=share))
+
 
 <!---
 Frombini/Frombini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
